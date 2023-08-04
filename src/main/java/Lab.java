@@ -2,7 +2,6 @@
 public class Lab {
     /**
      * Let's say we're building a calculator app. We now want to subtract a decimal number from another decimal number.
-     *
      * 
      * This challenge follows a similar process to 'add', but you may notice that this problem uses doubles
      * rather than ints.
